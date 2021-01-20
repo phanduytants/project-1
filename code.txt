@@ -1,0 +1,24 @@
+{
+"name":"CCNA",
+"start":"6:30 ",
+"end":"9:30 ",
+"hour":"3 ",
+"TA":{
+"id":"2000",
+"name":"NGUYEN HUY QUAN",
+"take attendance":false,
+},
+
+"student":
+[
+{"name":"PHAN DUY TAN",
+"id":"01"},
+{
+"name":"NGUYEN VAN DUNG",
+"ID":"02"},
+{
+"name":"NGUYEN VAN C",
+"ID":"03"
+}
+]
+}
